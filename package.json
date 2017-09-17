@@ -1,0 +1,19 @@
+{
+  "name": "rotating_earth_webgl",
+  "version": "0.1.0",
+  "description": "Render objects with Three.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Three.js",
+    "WebGL"
+  ],
+  "author": "Alapan Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
